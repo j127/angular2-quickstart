@@ -1,0 +1,10 @@
+{
+  "name": "angular2-quickstart",
+  "version": "0.0.1",
+  "description": "From angular.io tutorial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
