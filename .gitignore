@@ -1,4 +1,6 @@
 build/
+app/*.js
+app/*.js.map
 
 # Editors
 *~
